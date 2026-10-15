@@ -1,0 +1,15 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# Data / Heavy Files (Optional: remove if you want to share data files)
+# data/
+
+# IDE / OS Files
+.vscode/
+.DS_Store
